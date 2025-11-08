@@ -1,0 +1,5 @@
+.venv/
+data/
+features/
+.claude/
+.DS_Store/

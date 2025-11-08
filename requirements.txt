@@ -1,0 +1,25 @@
+# Core Data & ML
+numpy
+pandas
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+transformers
+
+# Finance Data
+yfinance
+
+# Signal Processing & Image
+PyWavelets
+Pillow
+matplotlib
+
+# Utils
+tqdm
+PyYAML
+
+# Data Storage
+pyarrow
+fastparquet
