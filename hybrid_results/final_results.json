@@ -1,0 +1,14 @@
+{
+  "config": {
+    "efficientnet_model": "./models/multi_stock_best.pth",
+    "timeseries_encoder": "LoRA-Chronos",
+    "using_lora": true,
+    "embedding_dim": 128,
+    "num_technical_features": 65
+  },
+  "test_metrics": {
+    "loss": 0.6897651055087782,
+    "accuracy": 54.98281786941581,
+    "f1_score": 0.7088888888888889,
+    "auc_roc": 0.49784335643490574,
+    "mean_confidence": 

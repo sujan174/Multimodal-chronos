@@ -1,0 +1,10 @@
+{
+  "Recent_2024_Q4": {
+    "date_range": "2024-10-01 to 2024-12-31",
+    "overall_metrics": {
+      "accuracy": 47.417840375586856,
+      "precision": 0.4740566037735849,
+      "recall": 0.995049504950495,
+      "f1_score": 0.6421725239616614,
+      "auc_roc": 0.544178748231966,
+      "mean_confidence": 
