@@ -44,7 +44,7 @@ TRAIN_TICKERS = [
     "AMZN",   # Amazon - E-commerce/Cloud
     "NVDA",   # NVIDIA - Semiconductors
     "TSLA",   # Tesla - Electric Vehicles
-    "JPM",    # JPMorgan Chase - Banking
+    "JPM",    # JPMorgan Chase 
     "JNJ",    # Johnson & Johnson - Healthcare
     "V",      # Visa - Financial Services
     "WMT",    # Walmart - Retail
